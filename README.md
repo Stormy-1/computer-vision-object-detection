@@ -2,8 +2,7 @@
 
 This project demonstrates real-time object detection and classification using Python and OpenCV, with YOLOv5 as the detection backbone.
 
-## Demo Video
-[Watch here](https://youtu.be/LyuEf2Xhhhg)
+
 
 ## Tech Stack
 - Python
