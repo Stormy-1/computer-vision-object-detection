@@ -5,11 +5,6 @@ The system can detect and classify multiple objects from a live webcam feed or v
 
 ---
 
-## 🔹 Demo Video
-[Watch here](https://youtu.be/LyuEf2Xhhhg?si=fZZHK1sA8llIt8SA)
-
----
-
 ## 🔹 Features
 - Real-time object detection and tracking
 - Based on **YOLOv5** deep learning model
